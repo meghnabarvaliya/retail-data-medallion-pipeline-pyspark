@@ -1,0 +1,6 @@
+{"order_id":"1","order_date":"2013-07-25","order_customer_id":11599,"order_status":"CLOSED"}
+{"order_id":"2","order_date":"2013-07-26","order_customer_id":256,"order_status":"COMPLETE"}
+{"order_id":"3","order_date":"2013-07-27","order_customer_id":12111,"order_status":"PENDING_PAYMENT"}
+{"order_id":"5","order_date":"2013-07-29","order_customer_id":8827,"order_status":"COMPLETE"}
+{"order_id":"7","order_date":"2013-07-31","order_customer_id":9475,"order_status":"CLOSED"}
+{"order_id":"8","order_date":"2013-08-01","order_customer_id":15023,"order_status":"COMPLETE"}

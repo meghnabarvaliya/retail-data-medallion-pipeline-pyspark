@@ -1,0 +1,9 @@
+customer_id,customer_fname,customer_lname,customer_email,customer_city,customer_state
+11599,John,Smith,john.smith@example.com,Caguas,PR
+256,Alice,Johnson,alice.johnson@example.com,Miami,FL
+12111,Bob,Brown,,Seattle,WA
+8827,Maria,Garcia,maria.garcia@example.com,,TX
+11318,Carlos,Martinez,carlos.martinez@example.com,Phoenix,AZ
+9475,Olivia,Lopez,olivia.lopez@example.com,Boston,
+15023,Noah,Davis,noah.davis@example.com,Denver,CO
+,Emma,Williams,emma.williams@example.com,Toronto,ON

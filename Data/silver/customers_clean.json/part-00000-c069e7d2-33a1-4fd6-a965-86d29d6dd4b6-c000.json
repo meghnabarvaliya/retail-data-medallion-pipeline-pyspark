@@ -1,0 +1,8 @@
+{"customer_id":"11599","customer_fname":"John","customer_lname":"Smith","customer_email":"john.smith@example.com","customer_city":"Caguas","customer_state":"PR"}
+{"customer_id":"256","customer_fname":"Alice","customer_lname":"Johnson","customer_email":"alice.johnson@example.com","customer_city":"Miami","customer_state":"FL"}
+{"customer_id":"12111","customer_fname":"Bob","customer_lname":"Brown","customer_email":"unknown@domain.com","customer_city":"Seattle","customer_state":"WA"}
+{"customer_id":"8827","customer_fname":"Maria","customer_lname":"Garcia","customer_email":"maria.garcia@example.com","customer_city":"Unknown","customer_state":"TX"}
+{"customer_id":"11318","customer_fname":"Carlos","customer_lname":"Martinez","customer_email":"carlos.martinez@example.com","customer_city":"Phoenix","customer_state":"AZ"}
+{"customer_id":"9475","customer_fname":"Olivia","customer_lname":"Lopez","customer_email":"olivia.lopez@example.com","customer_city":"Boston","customer_state":"Unknown"}
+{"customer_id":"15023","customer_fname":"Noah","customer_lname":"Davis","customer_email":"noah.davis@example.com","customer_city":"Denver","customer_state":"CO"}
+{"customer_fname":"Emma","customer_lname":"Williams","customer_email":"emma.williams@example.com","customer_city":"Toronto","customer_state":"ON"}
